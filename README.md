@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Dharaneesh N]
+# Hi there! 👋 I'm Dharaneesh N
 
 I'm a passionate Front End Developer with **2 years** of experience, specializing in crafting user-friendly and visually appealing web applications. My tech stack includes:
 
@@ -16,10 +16,14 @@ I'm a passionate Front End Developer with **2 years** of experience, specializin
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
+## 🚀 Projects & Contributions
+
+- [Earthy Concepts](https://dharaneesh2000.github.io/plantwebsite/#)
+
 ## 📫 Reach Me
 
-- Linkedin: [Your Linkedin Profile]((https://www.linkedin.com/in/dharaneesh-n-196693208/))
-- LeetCode: [Your LeetCode Profile]((https://leetcode.com/DharaneeshN/))
-
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaneesh-n-196693208/)
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/DharaneeshN/)
 
 Let's connect and build something amazing together!
+
