@@ -7,6 +7,7 @@ I'm a passionate Front End Developer with **2 years** of experience, specializin
 - JavaScript
 - React.js
 - Python (Basics)
+- SQL
 
 ## 🔧 Technologies & Tools
 
