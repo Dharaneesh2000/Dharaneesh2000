@@ -8,6 +8,7 @@ I'm a passionate Front End Developer with **2 years** of experience, specializin
 - React.js
 - Python (Basics)
 - SQL
+<img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif?cid=790b7611v3z1c6jekgj6w5t4jihrfg1argt0yvfho6wxxaci&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 ## 🔧 Technologies & Tools
 
